@@ -1,0 +1,4 @@
+Stack_mon.cpp:4:5:int add(int, int)	16	static
+Stack_mon.cpp:11:5:int computeSum()	240	static
+Stack_mon.cpp:25:5:int factorial(int)	32	static
+Stack_mon.cpp:32:5:int main()	32	static
